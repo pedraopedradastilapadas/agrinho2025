@@ -27,49 +27,49 @@ header {
 
 .abs1 {
    position: absolute;
-   right: 1720px;
+   right: 90%;
    top: 300px;
 }
 
 .abs2 {
    position: absolute;
-   right: 1720px;
+   right: 90%;
    top: 1800px;
 }
 
 .abs3 {
    position: absolute;
-   right: 1720px;
+   right: 90%;
    top: 3350px;
 }
 
 .abs4 {
    position: absolute;
-   right: 1720px;
+   right: 90%;
    top: 4700px;
 }
 
 .abs5 {
    position: absolute;
-   left: 1720px;
+   left: 90%;
    top: 300px;
 }
 
 .abs6 {
    position: absolute;
-   left: 1720px;
+   left: 90%;
    top: 1800px;
 }
 
 .abs7 {
    position: absolute;
-   left: 1720px;
+   left: 90%
    top: 3350px;
 }
 
 .abs8 {
    position: absolute;
-   left: 1720px;
+   left: 90%;
    top: 4700px;
 }
 
