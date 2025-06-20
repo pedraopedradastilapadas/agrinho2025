@@ -45,20 +45,32 @@ header {
 
 .abs4 {
    position: absolute;
-   left: 1720px;
-   top: 300px;
+   right: 1720px;
+   top: 4500px;
 }
 
 .abs5 {
    position: absolute;
    left: 1720px;
-   top: 1900px;
+   top: 300px;
 }
 
 .abs6 {
    position: absolute;
    left: 1720px;
+   top: 1900px;
+}
+
+.abs7 {
+   position: absolute;
+   left: 1720px;
    top: 3500px;
+}
+
+.abs8 {
+   position: absolute;
+   left: 1720px;
+   top: 4500px;
 }
 
 .span1 {
