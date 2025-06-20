@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Funnel+Display:wght@300..800&display=swap');
+
+body {
+font-family: "Funnel Display", sans-serif;
+background-color: #15162b;
+margin: 0;
+padding: 0;
+color: aliceblue;
+}
+
+header {
+    border: 3px solid rgb(27, 82, 116);
+    background-color: rgb(33, 83, 114);
+    border-radius: 0% 0% 25% 25%;
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.visivel {
+    font-size: 24px;
+}
+
+.titulo {
+    text-align: center;
+}
+
+.abs1 {
+   position: absolute;
+   right: 1720px;
+   top: 300px;
+}
+
+.abs2 {
+   position: absolute;
+   right: 1720px;
+   top: 1900px;
+}
+
+.abs3 {
+   position: absolute;
+   right: 1720px;
+   top: 3450px;
+}
+
+.abs4 {
+   position: absolute;
+   right: 1720px;
+   top: 4700px;
+}
+
+.abs5 {
+   position: absolute;
+   left: 1720px;
+   top: 300px;
+}
+
+.abs6 {
+   position: absolute;
+   left: 1720px;
+   top: 1900px;
+}
+
+.abs7 {
+   position: absolute;
+   left: 1720px;
+   top: 3450px;
+}
+
+.abs8 {
+   position: absolute;
+   left: 1720px;
+   top: 4700px;
+}
+
+.span1 {
+    color: #5a4c25;
+}
+
+.historia {
+    padding: 20px;
+    border: 20px solid #5a4c25;
+    margin-left: 7%;
+    margin-right: 7%;
+    padding-top: 10%;
+    font-size: 25px;
+    background-color: #776944;
+    border-radius: 60px;
+}
+
+.span2 {
+    color: #20381d;
+}
+
+.moderno {
+    padding: 20px;
+    border: 20px solid #20381d;
+    margin-left: 7%;
+    margin-right: 7%;
+    padding-top: 10%;
+    font-size: 25px;
+    background-color: #355231;
+    border-radius: 60px;
+}
+
+.span3 {
+    color: #291e1e;
+}
+
+.conclusão {
+    padding: 20px;
+    border: 20px solid #291e1e;
+    margin-left: 7%;
+    margin-right: 7%;
+    padding-top: 10%;
+    font-size: 25px;
+    background-color: #332c2c;
+    border-radius: 60px;
+}
+
+footer {
+    border: 3px solid rgba(38, 44, 31, 0.616);
+    background-color: rgb(63, 78, 60);
+    border-radius: 25% 25% 0% 0%;
+    font-size: 18px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.flexing {
+    display: flex;
+    display: inline;
+    text-align: justify;
+}
+
+figcaption {
+    border-radius: 5px;
+    font-style: italic;
+    border: 5px dashed rgb(77, 46, 43);
+    background-color: rgb(110, 86, 65);
+    text-align: center;
+    margin: auto;
+}
+
+#inline {
+    display: inline-block;
+}
+
+.img1, .caso_sem_fundo {
+  display: block;
+  margin: 2rem auto;
+  max-width: 100%;
+  width: 1000px;
+  height: auto;
+  border-radius: 20px;
+}
